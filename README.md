@@ -1,22 +1,32 @@
 Отчёт о тестировании Проводим проверку работы приложения верификации банковских карт.
 
-<22/03/2020> - <22/03/2020> 
+<22/03/2020> - <23/03/2020> 
 
 Было проведено <Component test, Integration test, Instalation test> приложения IntelliJ IDEA.
 
-На тестирование затрачено: <13:00-17.35>
+На тестирование затрачено: <13:00-17.35/ 9:30-11:00>
 
 В результате тестирования выявлены следующие дефекты:
+
 https://github.com/Algol613/Java1.2/issues/1
+https://github.com/Algol613/Java1.2/issues/2
 
-Описание процесса тестирования
+Описание процесса тестирования:
 
-     Устанавливаем IntellIJ IDEA следуя инструкции https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md
-    
-    
+     Установить  IntellIJ IDEA следуя инструкции https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md
+     Запустить IntelliJ IDEA
+     Настроить пространство для выполнения ДЗ
+     Скопировать код из https://github.com/netology-code/javaqa-homeworks/tree/master/intro
+     Выполнить тестплан
+     Написать отчет в README.md
 
-В процессе тестирования использовались следующие артефакты: https://docs.google.com/spreadsheets/d/1GtC2tDfWv-Cv6gP3xTxa9FrYJkVVx1fdpObAa-LcASk/edit?usp=sharing
-В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/tree/master/intro
+В процессе тестирования использовались следующие артефакты: 
+
+https://docs.google.com/spreadsheets/d/1GtC2tDfWv-Cv6gP3xTxa9FrYJkVVx1fdpObAa-LcASk/edit?usp=sharing
+
+В качестве тестовых данных использовались данные:
+
+https://github.com/netology-code/javaqa-homeworks/tree/master/intro
 
 Тестирование производилось в следующем окружении:
 
